@@ -2,7 +2,7 @@
 
 Execution Results are
 
-<h3>AES 256</h3> 
+<h3>AES256</h3> 
 
 Message Size:	100 Mb <br>
 Total Messages:	12<br>
@@ -33,7 +33,7 @@ Total Messages:	100000000<br>
 Seconds to encrypt 1Gb:	310.3744<br>
 
 
-<h3>PPG</h3> 
+<h3>PGP</h3> 
 
 Message Size:	100 Mb<br>
 Total Messages:	12<br>
